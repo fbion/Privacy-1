@@ -2,11 +2,13 @@
 
 
 
-免责声明：**下述内容皆来源网络仅供学习和研究使用，与我本人无任何利害关系，切勿违法滥用！**
+免责声明：
+
+1. `本项目所有内容,仅供学习和研究使用,请勿使用项目的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
+2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
+3. `未收及不会收取任何广告费用,推荐的所有工具链接与本人无任何利害关系`
 
 ******
-
-日常生活中尽量使用现金，家中储放定量纸币以备不时之需《[中华人民共和国人民币管理条例](http://gkml.samr.gov.cn/nsjg/bgt/202106/t20210615_330766.html)》
 
 [暗网取证研究](https://mp.weixin.qq.com/s/_kObp0peUyajqnDACJDlqg) 《信息安全与通信保密》2021年第3期.
 
@@ -72,6 +74,7 @@ News：
 
 * [7zip](https://www.7-zip.org/) 解压软件 <img src="https://www.7-zip.org/7ziplogo.png" width="35">
 * [BleachBit](https://www.bleachbit.org/) 清除缓存 <img src="https://www.bleachbit.org/sites/default/files/zen_classic_logo_0.png" width="35">
+* curl
 * [dnscrypt-proxy](https://github.com/DNSCrypt)
 * [Dism++](https://www.chuyu.me/en/index.html)  ：Windows10 系统优化
 * [Emacs](https://www.gnu.org/software/emacs/)  编辑器 <img src="https://www.gnu.org/software/emacs/images/emacs.png" width="35">
@@ -83,14 +86,18 @@ News：
 * [MusicBee](https://getmusicbee.com) 播放器：电台、播客、音乐 
 * [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) ：Windows10 隐私优化
 * python
+* qv2ray
 * [Rufus](https://rufus.ie/) 简洁的U盘启动制作工具 <img src="https://rufus.ie/pics/rufus-128.png" width="35">
 * [shutup10](https://www.oo-software.com/en/shutup10) ：Windows10系统权限控制与优化
 * [SimpleWall](https://www.henrypp.org/product/simplewall) 简易防火墙
 * [SumatraPDF](http://www.sumatrapdfreader.org/) 阅读器
+* v2ray
+* v2rayn
 * [Typora](https://typora.io/) ： Markdown 编辑器
 * [O&O ShutUp10](https://www.oo-software.com/en/shutup10) 隐私保护和设置优化工具
 * vscode 编辑器
 * [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/) 阻止windows间谍/遥测，捕获流量
+* xray
 * youtube-dl 命令行下载音/视频
 
 
@@ -117,9 +124,7 @@ News：
   * WebRTC Leak Prevent
   * WebRTC Network Limiter
 
-[LibreWolf Browser](https://librewolf-community.gitlab.io/) A fork of Firefox, focused on privacy, security and freedom.
-
-**[配置 FireFox](https://privacytools.twngo.xyz/browsers/)** [顾虑](https://spyware.neocities.org/articles/index.html)
+[LibreWolf Browser](https://librewolf-community.gitlab.io/) A fork of Firefox, focused on privacy, security and freedom. **[配置 FireFox](https://privacytools.twngo.xyz/browsers/)** [顾虑](https://spyware.neocities.org/articles/index.html)
 
 [RIME](https://rime.im/) 开源输入法 
 
@@ -163,6 +168,7 @@ VirtualBox 虚拟机安装
   - AntennaPod <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
   - [Bromite](https://www.bromite.org/) 浏览器
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
+  - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) A fork of NewPipe with SponsorBlock functionality.
   - Magisk 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
   
     - Riru 模块
