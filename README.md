@@ -1,7 +1,3 @@
-
-
-
-
 免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用项目的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
@@ -159,6 +155,7 @@ VirtualBox 虚拟机安装
 <img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/) The full Android experience without Google Apps.  
 
 - 优势：集成 microG 替代Google服务框架；稳定更新；适配机型众多；
+
 - 顾虑：[Android phones are sending significant amount of user data with no opt-out](https://news.ycombinator.com/item?id=28830328) & [LineageOS **Legal**](https://www.lineageos.org/legal) Unique ID...
 
 - <img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50">[F-Droid](https://f-droid.org/en/) 专门收录自由软件的安卓应用商店：
@@ -171,14 +168,24 @@ VirtualBox 虚拟机安装
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) A fork of NewPipe with SponsorBlock functionality.
   - Magisk 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
   
-    - Riru 模块
-    - Riru-LSPosed 模块
+    - Busybox for Android NDK
+    
+    - MagiskHide Props Config
+    
+    - Riru 
+    
+    - Riru - Enhanced mode for Storage Isolation
+    
+    - Riru - LSPosed 
+    
+  - LSPosed 
   
-    - LSPosed 模块
+      - AFWall+
       - Android Faker
       - Hide My Applist
       - XPrivacyLua
       - 应用伪装
+  - ProtonMail
   - Shizuku
     - App Ops
     - 存储空间
