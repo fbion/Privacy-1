@@ -213,6 +213,6 @@ VirtualBox 虚拟机安装
 >
 > flatpak install flathub org.videolan.VLC
 
-AppImageLauncher: AppImage helper
+[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher): AppImage helper
 
-Ggebi: simple tool to install deb files
+Gdebi: simple tool to install deb files
