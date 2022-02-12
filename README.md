@@ -98,7 +98,7 @@ News：
 
 
 
-**[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)** 浏览器**[下载](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)** sans integration with Google，<u>[Comparison between web browsers — Spyware Watchdog](https://spyware.neocities.org/articles/index.html)</u> 扩展插件：
+**[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)** 浏览器[下载1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)&[下载2](https://chromium.woolyss.com/) sans integration with Google，<u>[Comparison between web browsers — Spyware Watchdog](https://spyware.neocities.org/articles/index.html)</u> 扩展插件：
 
   * **[Chromium Web Store](https://github.com/NeverDecaf/chromium-web-store)**
   * [Privacy Badger](https://privacybadger.org/) <img src="https://www.eff.org/files/styles/highlight/public/banner_library/privacy-badger-logo.png" width="50">
@@ -155,14 +155,15 @@ VirtualBox 虚拟机安装
 <img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/) The full Android experience without Google Apps.  
 
 - 优势：集成 microG 替代Google服务框架；稳定更新；适配机型众多；
-
 - 顾虑：[Android phones are sending significant amount of user data with no opt-out](https://news.ycombinator.com/item?id=28830328) & [LineageOS **Legal**](https://www.lineageos.org/legal) Unique ID...
-
 - <img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50">[F-Droid](https://f-droid.org/en/) 专门收录自由软件的安卓应用商店：
   - Aurora Store <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store 
+  - AdAway
+  - Aegis
   - AFWall+ <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
   - App Manager <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
   - AntennaPod <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
+  - Privacy Browser
   - [Bromite](https://www.bromite.org/) 浏览器
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) A fork of NewPipe with SponsorBlock functionality.
@@ -177,7 +178,6 @@ VirtualBox 虚拟机安装
     - Riru - Enhanced mode for Storage Isolation
     
     - Riru - LSPosed 
-    
   - LSPosed 
   
       - AFWall+
@@ -185,11 +185,18 @@ VirtualBox 虚拟机安装
       - Hide My Applist
       - XPrivacyLua
       - 应用伪装
+  - LTE Cleaner
+  - Insular
+  - InviZible Pro
+  - OctoDroid
   - ProtonMail
+  - AnXray
+  - RethinkDNS
   - Shizuku
     - App Ops
     - 存储空间
   - Syncthing
+  - Tutanota
   - Trime 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
   - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
