@@ -66,7 +66,9 @@ News：
 
 [Malwarebytes Windows Firewall Control](https://www.binisoft.org/wfc) 防火墙管理
 
-[Scoop](https://github.com/lukesampson/scoop) 软件包搜索安装管理，开源软件替代商业应用：
+⭐️ Chocolatey Software <img width="50" src="https://chocolatey.org/assets/images/global-shared/logo-square.svg"> [Chocolatey](https://chocolatey.org/) - The package manager for Windows , [Privacy Policy](https://chocolatey.org/privacy).
+
+⭐️ [Scoop](https://github.com/lukesampson/scoop) 软件包搜索安装管理，开源软件替代商业应用：
 
 * [7zip](https://www.7-zip.org/) 解压软件 <img src="https://www.7-zip.org/7ziplogo.png" width="35">
 * [BleachBit](https://www.bleachbit.org/) 清除缓存 <img src="https://www.bleachbit.org/sites/default/files/zen_classic_logo_0.png" width="35">
@@ -98,7 +100,7 @@ News：
 
 
 
-**[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)** 浏览器[下载1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)&[下载2](https://chromium.woolyss.com/) sans integration with Google，<u>[Comparison between web browsers — Spyware Watchdog](https://spyware.neocities.org/articles/index.html)</u> 扩展插件：
+⭐️ **[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)** 浏览器[下载1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)&[下载2](https://chromium.woolyss.com/) sans integration with Google，<u>[Comparison between web browsers — Spyware Watchdog](https://spyware.neocities.org/articles/index.html)</u> 扩展插件：
 
   * **[Chromium Web Store](https://github.com/NeverDecaf/chromium-web-store)**
   * [Privacy Badger](https://privacybadger.org/) <img src="https://www.eff.org/files/styles/highlight/public/banner_library/privacy-badger-logo.png" width="50">
@@ -120,7 +122,7 @@ News：
   * WebRTC Leak Prevent
   * WebRTC Network Limiter
 
-[LibreWolf Browser](https://librewolf-community.gitlab.io/) A fork of Firefox, focused on privacy, security and freedom. **[配置 FireFox](https://privacytools.twngo.xyz/browsers/)** [顾虑](https://spyware.neocities.org/articles/index.html)
+[LibreWolf Browser](https://librewolf.net/) <img width="35" src="https://librewolf.net/icon.svg"> A fork of Firefox, focused on privacy, security and freedom. **[配置 FireFox](https://privacytools.twngo.xyz/browsers/)** [顾虑](https://spyware.neocities.org/articles/index.html)
 
 [RIME](https://rime.im/) 开源输入法 
 
@@ -150,20 +152,20 @@ VirtualBox 虚拟机安装
 
 **推荐升降前摄的全面屏机型**
 
-<img src="https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png" width="30"> [/e/OS - deGoogled unGoogled smartphone operating systems and online services - your data is your data](https://e.foundation/e-os/)
+> <img src="https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png" width="30"> [/e/OS - deGoogled unGoogled smartphone operating systems and online services - your data is your data](https://e.foundation/e-os/) ⭐️
 
-<img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/) The full Android experience without Google Apps.  
+<img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/) ⭐️ The full Android experience without Google Apps.  
 
 - 优势：集成 microG 替代Google服务框架；稳定更新；适配机型众多；
 - 顾虑：[Android phones are sending significant amount of user data with no opt-out](https://news.ycombinator.com/item?id=28830328) & [LineageOS **Legal**](https://www.lineageos.org/legal) Unique ID...
 - <img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50">[F-Droid](https://f-droid.org/en/) 专门收录自由软件的安卓应用商店：
   - Aurora Store <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store 
-  - AdAway
-  - Aegis
+  - AdAway <img width="35" src="https://f-droid.org/repo/org.adaway/en/icon_tKwcVT8aMbx2qao_fv-a4V5Epua_g0FOYWilovP7yjk=.png"> A free and Open Source ad blocker for Android.
+  - Aegis <img width="35" src="https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png"> Free, secure and open source 2FA app to manage tokens for your online services
   - AFWall+ <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
   - App Manager <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
   - AntennaPod <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
-  - Privacy Browser
+  - Privacy Browser <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
   - [Bromite](https://www.bromite.org/) 浏览器
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) A fork of NewPipe with SponsorBlock functionality.
@@ -186,40 +188,37 @@ VirtualBox 虚拟机安装
       - XPrivacyLua
       - 应用伪装
   - LTE Cleaner
-  - Insular
-  - InviZible Pro
-  - OctoDroid
+  - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps
+  - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
   - ProtonMail
   - AnXray
-  - RethinkDNS
+  - RethinkDNS  Firewall apps, monitor network activity, block malware, change DNS.
+  - [Shamiko](https://www.daxiaamu.com/6465/) 
   - Shizuku
     - App Ops
     - 存储空间
   - Syncthing
-  - Tutanota
+  - Tutanota <img width="35" src="https://f-droid.org/repo/de.tutao.tutanota/en-US/icon_0jwFAtRjMHgbAOWzPFW_-l0fJp0bt9pb6sciyfMB68I=.png"> Encrypted email & calendar service - easy to use, secure by design.
   - Trime 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
   - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
 
 # Linux
-[Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
+[Debian](https://www.debian.org/) -- The Universal Operating System
 
-[Linux/BSD Compatible Hardware](https://distrowatch.com/dwres.php?resource=hardware)；[Lenovo: Linux for Personal Systems](https://support.lenovo.com/us/en/solutions/pd031426)；
+> [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)  ;  [Linux/BSD Compatible Hardware](https://distrowatch.com/dwres.php?resource=hardware) ；[Lenovo: Linux for Personal Systems](https://support.lenovo.com/us/en/solutions/pd031426)；
 
-<img src="https://www.digi77.com/wp-content/uploads/2013/10/kodachi-box-136x136.png" width="30"><u>[Kodachi The Secure OS](https://www.digi77.com/linux-kodachi/)</u>；[Tails]()；[Whonix]()；
+> [Fwupd](https://fwupd.org/lvfs/devices/) - The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates
 
-[Fwupd - The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates](https://fwupd.org/lvfs/devices/)
-
-[Get Started with Kali Linux in 2020](https://null-byte.wonderhowto.com/how-to/get-started-with-kali-linux-2020-0231506/)
-
-[Flatpak Setup](https://flatpak.org/setup) [顾虑](https://ludocode.com/blog/flatpak-is-not-the-future)
-
-> flatpak install flathub com.github.Eloston.UngoogledChromium
->
-> flatpak install flathub io.gitlab.librewolf-community
->
-> flatpak install flathub org.videolan.VLC
+- [Flatpak Setup](https://flatpak.org/setup) ，[顾虑](https://ludocode.com/blog/flatpak-is-not-the-future)
+   - flatpak install flathub com.github.Eloston.UngoogledChromium
+   - flatpak install flathub io.gitlab.librewolf-community
+   - flatpak install flathub org.videolan.VLC
+   - flatpak install flathub org.blender.Blender
+   - flatpak install flathub org.gimp.GIMP
 
 [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher): AppImage helper
 
 Gdebi: simple tool to install deb files
+
+<u>[Kodachi The Secure OS](https://www.digi77.com/linux-kodachi/)</u>；[Tails]()；[Whonix]()；
