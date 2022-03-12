@@ -50,6 +50,24 @@ News：
 
 **[GFWlist](https://github.com/gfwlist/gfwlist)** the one and only one gfwlist here
 
+[GIMP](https://www.gimp.org/) <img width="35" src="https://www.gimp.org/images/frontpage/wilber-big.png"> GNU Image Manipulation Program
+
+[Inkscape](https://inkscape.org/) <img width="35" src="https://media.inkscape.org/static/images/inkscape-logo.svg"> Draw Freely 
+
+[Krita](https://krita.org/) <img width="55" src="https://krita.org/wp-content/themes/krita-org-theme/images/krita-logo.png"> Digital Painting.
+
+[OBS](https://obsproject.com/) <img width="35" src="https://obsproject.com/assets/images/new_icon_small-r.png"> Open Broadcaster Software
+
+[Kdenlive](https://kdenlive.org/) <img width="55" src="https://kdenlive.org/wp-content/uploads/2016/06/kdenlive-logo-hori.png"> Video Editing Freedom
+
+[Ardour](https://ardour.org) <img width="56" src="https://ardour.org/images/ardour_logo_navbar.png"> the digital audio workstation
+
+[Tangram](https://github.com/sonnyp/tangram) <img width="35" src="https://apps.gnome.org/icons/scalable/re.sonny.Tangram.svg"> Browser for your pinned tabs
+
+[MartText](https://github.com/marktext/marktext) <img width="35" src="https://avatars.githubusercontent.com/u/36623013?s=200&v=4"> A simple and elegant markdown editor.
+
+
+
 # Windows
 
 系统版本 [Windows 10 Enterprise LTSC (Long Time Service Channel)](https://msdn.itellyou.cn/)
@@ -187,6 +205,7 @@ VirtualBox 虚拟机安装
       - Hide My Applist
       - XPrivacyLua
       - 应用伪装
+  - Lantern
   - LTE Cleaner
   - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps
   - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
@@ -204,16 +223,17 @@ VirtualBox 虚拟机安装
   - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
 
 # Linux
-[Debian](https://www.debian.org/) -- The Universal Operating System
+[Debian](https://www.debian.org/) <img width="35" src="https://www.debian.org/Pics/openlogo-50.png"> The Universal Operating System
 
 > [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)  ;  [Linux/BSD Compatible Hardware](https://distrowatch.com/dwres.php?resource=hardware) ；[Lenovo: Linux for Personal Systems](https://support.lenovo.com/us/en/solutions/pd031426)；
 
 > [Fwupd](https://fwupd.org/lvfs/devices/) - The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates
 
-- [Flatpak Setup](https://flatpak.org/setup) ，[顾虑](https://ludocode.com/blog/flatpak-is-not-the-future)
+- [Flatpak Setup](https://flatpak.org/setup) <img width="50" src="https://flatpak.org/img/logo-5bc540c2.svgz"> [顾虑](https://ludocode.com/blog/flatpak-is-not-the-future)
    - flatpak install flathub com.github.Eloston.UngoogledChromium
    - flatpak install flathub io.gitlab.librewolf-community
    - flatpak install flathub org.videolan.VLC
+   - flatpak install flathub com.github.rafostar.Clapper
    - flatpak install flathub org.blender.Blender
    - flatpak install flathub org.gimp.GIMP
 
