@@ -46,7 +46,9 @@ News：
 
 **[dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)** Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
 
-[**IPList for China by IPIP.NET**](https://github.com/17mon/china_ip_list)
+[**IPList for China by IPIP.NET**](https://github.com/17mon/china_ip_list) 
+
+[Element](https://element.io/) <img width="85" src="https://element.io/images/logo-ele-secondary.svg"> Secure collaboration and messaging
 
 **[GFWlist](https://github.com/gfwlist/gfwlist)** the one and only one gfwlist here
 
@@ -166,16 +168,18 @@ VirtualBox 虚拟机安装
 
 # Android 开源/刷机 
 
-[Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
+> [GrapheneOS](https://grapheneos.org/): the private and secure mobile OS 适配Google Pixel机型
+
+👉 [Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
 
 **推荐升降前摄的全面屏机型**
 
-> <img src="https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png" width="30"> [/e/OS - deGoogled unGoogled smartphone operating systems and online services - your data is your data](https://e.foundation/e-os/) ⭐️
+> <img src="https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png" width="30"> [/e/OS - deGoogled unGoogled smartphone operating systems and online services - your data is your data](https://e.foundation/e-os/) 
 
-<img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/) ⭐️ The full Android experience without Google Apps.  
+<img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/)  The full Android experience without Google Apps.  
 
 - 优势：集成 microG 替代Google服务框架；稳定更新；适配机型众多；
-- 顾虑：[Android phones are sending significant amount of user data with no opt-out](https://news.ycombinator.com/item?id=28830328) & [LineageOS **Legal**](https://www.lineageos.org/legal) Unique ID...
+- 顾虑：[LineageOS **Legal**](https://www.lineageos.org/legal) Unique ID...
 - <img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50">[F-Droid](https://f-droid.org/en/) 专门收录自由软件的安卓应用商店：
   - Aurora Store <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store 
   - AdAway <img width="35" src="https://f-droid.org/repo/org.adaway/en/icon_tKwcVT8aMbx2qao_fv-a4V5Epua_g0FOYWilovP7yjk=.png"> A free and Open Source ad blocker for Android.
@@ -184,7 +188,7 @@ VirtualBox 虚拟机安装
   - App Manager <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
   - AntennaPod <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
   - Privacy Browser <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
-  - [Bromite](https://www.bromite.org/) 浏览器
+  - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) A fork of NewPipe with SponsorBlock functionality.
   - Magisk 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
@@ -198,29 +202,37 @@ VirtualBox 虚拟机安装
     - Riru - Enhanced mode for Storage Isolation
     
     - Riru - LSPosed 
-  - LSPosed 
+  - LSPosed <img width="35" src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4"> Framework
   
       - AFWall+
       - Android Faker
       - Hide My Applist
       - XPrivacyLua
       - 应用伪装
-  - Lantern
+  - [Lantern](https://github.com/getlantern) <img width="35" src="https://avatars.githubusercontent.com/u/624178?s=200&v=4">
   - LTE Cleaner
   - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps
   - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
-  - ProtonMail
-  - AnXray
-  - RethinkDNS  Firewall apps, monitor network activity, block malware, change DNS.
+  - [ProtonMail](https://protonmail.com/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email
+  - [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
+  - [SagetNet](https://github.com/SagerNet) <img width="35" src="https://avatars.githubusercontent.com/u/83217677?s=200&v=4"> The universal proxy toolchain for Android
   - [Shamiko](https://www.daxiaamu.com/6465/) 
-  - Shizuku
+  - [Shizuku](https://shizuku.rikka.app/zh-hans/) <img width="35" src="https://shizuku.rikka.app/logo.png"> 让你的应用直接使用系统 API
     - App Ops
     - 存储空间
-  - Syncthing
+  - [Syncthing](https://syncthing.net/)
+  - [Status](https://status.im/) <img width="65" src="https://status.im/img/logo.svg"> Private, Secure Communication
   - Tutanota <img width="35" src="https://f-droid.org/repo/de.tutao.tutanota/en-US/icon_0jwFAtRjMHgbAOWzPFW_-l0fJp0bt9pb6sciyfMB68I=.png"> Encrypted email & calendar service - easy to use, secure by design.
-  - Trime 输入法
+  - [Trime](https://github.com/osfans/trime) 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
   - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
+  
+
+
+
+[Android FOSS](https://github.com/offa/android-foss)
+
+[北理·金旭亮 Android 开发](https://space.bilibili.com/612518983/video)
 
 # Linux
 [Debian](https://www.debian.org/) <img width="35" src="https://www.debian.org/Pics/openlogo-50.png"> The Universal Operating System
