@@ -1,7 +1,7 @@
 免责声明：
 
-1. `本项目所有内容,仅供学习和研究使用,请勿使用项目的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
-2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
+1. `本项目所有内容,仅供学习和研究使用,请勿将本项目所述技术手段用于非法用途,任何人造成的任何负面影响及后果,与本人无关.`
+2. `本文档所有内容、新闻皆不代表本人态度、立场，如有建议或方案,欢迎提交 issues`
 3. `未收及不会收取任何广告费用,推荐的所有工具链接与本人无任何利害关系`
 
 ******
@@ -24,11 +24,14 @@
 
 News：
 
-|||||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[SeeBug 安全技术精粹](https://paper.seebug.org/) ,|[SecWiki News](https://www.sec-wiki.com/news) . [RSS](https://www.sec-wiki.com/news/rss)。|[Sec-News 安全文摘](http://wiki.ioin.in)|[KrebsOnSecurity](https:krebsonsecurity.com)|[️️Bruce Schneier on Security](https://www.schneier.com)|[The Citizen Lab](https://citizenlab.ca)|[GFW Report](https://gfw.report/)|[SecLists.Org Security Mailing List Archive](https://seclists.org)|
-|[Public-Interest Technology Resources](https://public-interest-tech.com)|[CryptoLUX](https://www.cryptolux.org/index.php/Home)|[Applied Cryptography Group](https://crypto.stanford.edu)|[Stanford Computer Security Laboratory](http://seclab.stanford.edu)|[PRISM Break](https://prism-break.org/)|[PrivacyTools - Encryption Against Global Mass Surveillance](https://www.privacytools.io/) & [網路隱私工具](https://privacytools.twngo.xyz/)|[Deploy your own SaaS](https://github.com/Atarity/deploy-your-own-saas)|[Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy)|
-|[VPN comparison by That One Privacy Guy](https://thatoneprivacysite.net)|[Cutting Google out of your life](https://degoogle.jmoore.dev)|[The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)|[Useful Cryptography Resources – A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/useful-cryptography-resources/)|[Cryptology ePrint Archive](https://eprint.iacr.org/)|[Madaidan's Insecurities](https://madaidans-insecurities.github.io/)|[CIA 的技术含量](https://dao.fm/2017/03/10/cia-%e7%9a%84%e6%8a%80%e6%9c%af%e5%90%ab%e9%87%8f/)|[安全圈info](https://www.anquanquan.info/)|
+|||||
+|:-:|:-:|:-:|:-:|
+|[PrivacyTools - Encryption Against Global Mass Surveillance](https://www.privacytools.io/) & [網路隱私工具](https://privacytools.twngo.xyz/)|棱镜 [PRISM Break](https://prism-break.org/)|<img width="75" src="https://149400697.v2.pressablecdn.com/wp-content/uploads/2019/10/Bruce-Schneier.jpg"> [️️Bruce Schneier on Security](https://www.schneier.com)|[Cryptology ePrint Archive](https://eprint.iacr.org/)|
+|[SeeBug 安全技术精粹](https://paper.seebug.org/) ,|[SecWiki News](https://www.sec-wiki.com/news) . [RSS](https://www.sec-wiki.com/news/rss)。|           [The Citizen Lab](https://citizenlab.ca)           |<img width="50" src="https://krebsonsecurity.com/wp-content/uploads/2009/11/krebsinbelgium-285x342.png"> [Krebs On Security](https:krebsonsecurity.com)|
+|[Public-Interest Technology Resources](https://public-interest-tech.com)|[CryptoLUX](https://www.cryptolux.org/index.php/Home)|[Applied Cryptography Group](https://crypto.stanford.edu)|[Stanford Computer Security Laboratory](http://seclab.stanford.edu)|
+|[VPN comparison by That One Privacy Guy](https://thatoneprivacysite.net)|[Cutting Google out of your life](https://degoogle.jmoore.dev)|[The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)|[Useful Cryptography Resources – A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/useful-cryptography-resources/)|
+|[安全圈info](https://www.anquanquan.info/)|[CIA 的技术含量](https://dao.fm/2017/03/10/cia-%e7%9a%84%e6%8a%80%e6%9c%af%e5%90%ab%e9%87%8f/)|[Madaidan's Insecurities](https://madaidans-insecurities.github.io/)|[SecLists.Org Security Mailing List Archive](https://seclists.org)|
+|[Sec-News 安全文摘](http://wiki.ioin.in)|[Deploy your own SaaS](https://github.com/Atarity/deploy-your-own-saas)|[GFW Report](https://gfw.report/)|<img width="75" src="https://github.com/ffffffff0x/Digital-Privacy/raw/master/assets/img/readme.jpg"> [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy)|
 
 - DC residents get visits from FBI as agents track cell phones that pinged near the Capitol
 - [Running in Circles：Uncovering the Clients of Cyberespionage Firm Circles](https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/)
@@ -48,6 +51,10 @@ News：
 
 [**IPList for China by IPIP.NET**](https://github.com/17mon/china_ip_list) 
 
+[Claws Mail](https://www.claws-mail.org/) <img width="55" src="https://www.claws-mail.org/img/sc-bar-right.png"> The user-friendly, lightweight, and fast e-mail client
+
+[Discord](https://discord.com/)
+
 [Element](https://element.io/) <img width="85" src="https://element.io/images/logo-ele-secondary.svg"> Secure collaboration and messaging
 
 **[GFWlist](https://github.com/gfwlist/gfwlist)** the one and only one gfwlist here
@@ -56,7 +63,7 @@ News：
 
 [Inkscape](https://inkscape.org/) <img width="35" src="https://media.inkscape.org/static/images/inkscape-logo.svg"> Draw Freely 
 
-[Krita](https://krita.org/) <img width="55" src="https://krita.org/wp-content/themes/krita-org-theme/images/krita-logo.png"> Digital Painting.
+[Krita](https://krita.org/)  Digital Painting.
 
 [OBS](https://obsproject.com/) <img width="35" src="https://obsproject.com/assets/images/new_icon_small-r.png"> Open Broadcaster Software
 
@@ -65,6 +72,10 @@ News：
 [Ardour](https://ardour.org) <img width="56" src="https://ardour.org/images/ardour_logo_navbar.png"> the digital audio workstation
 
 [Tangram](https://github.com/sonnyp/tangram) <img width="35" src="https://apps.gnome.org/icons/scalable/re.sonny.Tangram.svg"> Browser for your pinned tabs
+
+[Telegram]( https://telegram.org/) <img width="35" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4"> Fast. Secure. Powerful.
+
+Tor
 
 [MartText](https://github.com/marktext/marktext) <img width="35" src="https://avatars.githubusercontent.com/u/36623013?s=200&v=4"> A simple and elegant markdown editor.
 
@@ -172,7 +183,7 @@ VirtualBox 虚拟机安装
 
 👉 [Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
 
-**推荐升降前摄的全面屏机型**
+**推荐升降前摄的全面屏机型** ⭐️ [记 OnePlus 7Pro 刷入 LineageOS 18.1 的奇妙之旅](https://blog.secretbase.cn/p/oneplus7pro-flash-lineageos/)
 
 > <img src="https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png" width="30"> [/e/OS - deGoogled unGoogled smartphone operating systems and online services - your data is your data](https://e.foundation/e-os/) 
 
@@ -189,8 +200,10 @@ VirtualBox 虚拟机安装
   - AntennaPod <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
   - Privacy Browser <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
   - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
+  - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email
+  - [CTemplar](https://ctemplar.com/) <img width="35" src="https://ctemplar.com/wp-content/themes/ctemplar/assets/img/logo-plus-text.svg"> Most Secure Anonymous Encrypted Email
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
-  - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) A fork of NewPipe with SponsorBlock functionality.
+  - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
   - Magisk 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
   
     - Busybox for Android NDK
@@ -216,12 +229,14 @@ VirtualBox 虚拟机安装
   - [ProtonMail](https://protonmail.com/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email
   - [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
   - [SagetNet](https://github.com/SagerNet) <img width="35" src="https://avatars.githubusercontent.com/u/83217677?s=200&v=4"> The universal proxy toolchain for Android
+  - [Session](https://getsession.org/) Send Messages, Not Metadata
   - [Shamiko](https://www.daxiaamu.com/6465/) 
   - [Shizuku](https://shizuku.rikka.app/zh-hans/) <img width="35" src="https://shizuku.rikka.app/logo.png"> 让你的应用直接使用系统 API
     - App Ops
     - 存储空间
   - [Syncthing](https://syncthing.net/)
   - [Status](https://status.im/) <img width="65" src="https://status.im/img/logo.svg"> Private, Secure Communication
+  - [Telios](https://www.telios.io/) <img width="35" src="https://www.telios.io/static/media/telios_logo.6bf1fcf2.svg"> Decentralized & Encrypted Peer-to-Peer Email Service
   - Tutanota <img width="35" src="https://f-droid.org/repo/de.tutao.tutanota/en-US/icon_0jwFAtRjMHgbAOWzPFW_-l0fJp0bt9pb6sciyfMB68I=.png"> Encrypted email & calendar service - easy to use, secure by design.
   - [Trime](https://github.com/osfans/trime) 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
@@ -237,7 +252,7 @@ VirtualBox 虚拟机安装
 # Linux
 [Debian](https://www.debian.org/) <img width="35" src="https://www.debian.org/Pics/openlogo-50.png"> The Universal Operating System
 
-> [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)  ;  [Linux/BSD Compatible Hardware](https://distrowatch.com/dwres.php?resource=hardware) ；[Lenovo: Linux for Personal Systems](https://support.lenovo.com/us/en/solutions/pd031426)；
+> [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)  ;  [Linux/BSD Compatible Hardware](https://distrowatch.com/dwres.php?resource=hardware) ；联想[Lenovo: Linux for Personal Systems](https://support.lenovo.com/us/en/solutions/pd031426)；
 
 > [Fwupd](https://fwupd.org/lvfs/devices/) - The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates
 
