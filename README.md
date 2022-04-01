@@ -203,6 +203,7 @@ VirtualBox 虚拟机安装
   - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email
   - [CTemplar](https://ctemplar.com/) <img width="35" src="https://ctemplar.com/wp-content/themes/ctemplar/assets/img/logo-plus-text.svg"> Most Secure Anonymous Encrypted Email
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
+  - [News](https://f-droid.org/packages/co.appreactor.news/) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
   - Magisk 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
   
@@ -215,10 +216,11 @@ VirtualBox 虚拟机安装
     - Riru - Enhanced mode for Storage Isolation
     
     - Riru - LSPosed 
+  - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk)
   - LSPosed <img width="35" src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4"> Framework
-  
       - AFWall+
       - Android Faker
+      - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk)
       - Hide My Applist
       - XPrivacyLua
       - 应用伪装
@@ -258,8 +260,6 @@ VirtualBox 虚拟机安装
 
 - [Flatpak Setup](https://flatpak.org/setup) <img width="50" src="https://flatpak.org/img/logo-5bc540c2.svgz"> [顾虑](https://ludocode.com/blog/flatpak-is-not-the-future)
    - flatpak install flathub com.github.Eloston.UngoogledChromium
-   - flatpak install flathub io.gitlab.librewolf-community
-   - flatpak install flathub org.videolan.VLC
    - flatpak install flathub com.github.rafostar.Clapper
    - flatpak install flathub org.blender.Blender
    - flatpak install flathub org.gimp.GIMP
@@ -268,4 +268,8 @@ VirtualBox 虚拟机安装
 
 Gdebi: simple tool to install deb files
 
-<u>[Kodachi The Secure OS](https://www.digi77.com/linux-kodachi/)</u>；[Tails]()；[Whonix]()；
+<u>[Kodachi The Secure OS](https://www.digi77.com/linux-kodachi/)</u>；
+
+[Tails]()；
+
+[Whonix]()；
