@@ -18,15 +18,32 @@
 搜索引擎：👁‍🗨
 
 * Startpage https://www.startpage.com
+
 * Searx https://searx.space/
+
 * Swisscows https://swisscows.com
+
 * Mojeek https://www.mojeek.com
 
-News：
+  
+
+> [数字时代如何管理你的数字隐私](https://blog.besscroft.com/articles/2021/manage-digital-privacy/)：
+
+- 外卖、快递单号。
+- 发布到网上的照片。
+- 社交媒体关联信息。
+- 你家里的语音助手音箱和其它未经授权的设备。
+- 买卖二手设备时，信息是否删除。
+- 广告商对你进行的追踪。
+- 你电脑/手机上的软件，扫描你的硬盘。
+- 你在社交平台的冲浪信息，在购物平台的消费信息，都有可能被爬取或泄露。
+- 浏览一个陌生网页时，首先想到的应该是查看网页快照。
+
+**News**：
 
 |||||
 |:-:|:-:|:-:|:-:|
-|[PrivacyTools - Encryption Against Global Mass Surveillance](https://www.privacytools.io/) & [網路隱私工具](https://privacytools.twngo.xyz/)|棱镜 [PRISM Break](https://prism-break.org/)|<img width="75" src="https://149400697.v2.pressablecdn.com/wp-content/uploads/2019/10/Bruce-Schneier.jpg"> [️️Bruce Schneier on Security](https://www.schneier.com)|[Cryptology ePrint Archive](https://eprint.iacr.org/)|
+|[PrivacyTools - Encryption Against Global Mass Surveillance](https://www.privacytools.io/) & [網路隱私工具](https://privacytools.twngo.xyz/)|粉碎棱镜 [PRISM Break](https://prism-break.org/)|<img width="75" src="https://149400697.v2.pressablecdn.com/wp-content/uploads/2019/10/Bruce-Schneier.jpg"> [️️Bruce Schneier on Security](https://www.schneier.com)|[Cryptology ePrint Archive](https://eprint.iacr.org/)|
 |[SeeBug 安全技术精粹](https://paper.seebug.org/) ,|[SecWiki News](https://www.sec-wiki.com/news) . [RSS](https://www.sec-wiki.com/news/rss)。|           [The Citizen Lab](https://citizenlab.ca)           |<img width="50" src="https://krebsonsecurity.com/wp-content/uploads/2009/11/krebsinbelgium-285x342.png"> [Krebs On Security](https:krebsonsecurity.com)|
 |[Public-Interest Technology Resources](https://public-interest-tech.com)|[CryptoLUX](https://www.cryptolux.org/index.php/Home)|[Applied Cryptography Group](https://crypto.stanford.edu)|[Stanford Computer Security Laboratory](http://seclab.stanford.edu)|
 |[VPN comparison by That One Privacy Guy](https://thatoneprivacysite.net)|[Cutting Google out of your life](https://degoogle.jmoore.dev)|[The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)|[Useful Cryptography Resources – A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/useful-cryptography-resources/)|
@@ -51,6 +68,10 @@ News：
 
 [**IPList for China by IPIP.NET**](https://github.com/17mon/china_ip_list) 
 
+[Audacity](https://www.audacityteam.org/) Free, open source, cross-platform audio software for multi-track recording and editing. 跨平台音频编辑软件
+
+[Blender](https://www.blender.org/) Free and Open 3D Creation Software 3D创建套件
+
 [Claws Mail](https://www.claws-mail.org/) <img width="55" src="https://www.claws-mail.org/img/sc-bar-right.png"> The user-friendly, lightweight, and fast e-mail client
 
 [Discord](https://discord.com/)
@@ -59,15 +80,15 @@ News：
 
 **[GFWlist](https://github.com/gfwlist/gfwlist)** the one and only one gfwlist here
 
-[GIMP](https://www.gimp.org/) <img width="35" src="https://www.gimp.org/images/frontpage/wilber-big.png"> GNU Image Manipulation Program
+[GIMP](https://www.gimp.org/) <img width="35" src="https://www.gimp.org/images/frontpage/wilber-big.png"> GNU Image Manipulation Program 跨平台图像编辑器
 
-[Inkscape](https://inkscape.org/) <img width="35" src="https://media.inkscape.org/static/images/inkscape-logo.svg"> Draw Freely 
+[Inkscape](https://inkscape.org/) <img width="35" src="https://media.inkscape.org/static/images/inkscape-logo.svg"> Draw Freely  矢量图形软件
 
-[Krita](https://krita.org/)  Digital Painting.
+[Krita](https://krita.org/)  Digital Painting. 专业绘画软件
 
 [OBS](https://obsproject.com/) <img width="35" src="https://obsproject.com/assets/images/new_icon_small-r.png"> Open Broadcaster Software
 
-[Kdenlive](https://kdenlive.org/) <img width="55" src="https://kdenlive.org/wp-content/uploads/2016/06/kdenlive-logo-hori.png"> Video Editing Freedom
+[Kdenlive](https://kdenlive.org/) <img width="55" src="https://kdenlive.org/wp-content/uploads/2016/06/kdenlive-logo-hori.png"> Video Editing Freedom 开源视频编辑器
 
 [Ardour](https://ardour.org) <img width="56" src="https://ardour.org/images/ardour_logo_navbar.png"> the digital audio workstation
 
@@ -198,6 +219,7 @@ VirtualBox 虚拟机安装
   - AFWall+ <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
   - App Manager <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
   - AntennaPod <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
+  - [Aves Gallery](https://github.com/deckerst/aves)
   - Privacy Browser <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
   - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
   - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email
@@ -258,6 +280,7 @@ VirtualBox 虚拟机安装
 
 > [Fwupd](https://fwupd.org/lvfs/devices/) - The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates
 
+- [Packages for Linux and Unix](https://pkgs.org/)
 - [Flatpak Setup](https://flatpak.org/setup) <img width="50" src="https://flatpak.org/img/logo-5bc540c2.svgz"> [顾虑](https://ludocode.com/blog/flatpak-is-not-the-future)
    - flatpak install flathub com.github.Eloston.UngoogledChromium
    - flatpak install flathub com.github.rafostar.Clapper
@@ -267,6 +290,8 @@ VirtualBox 虚拟机安装
 [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher): AppImage helper
 
 Gdebi: simple tool to install deb files
+
+[Waydroid](https://waydro.id/) A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 
 <u>[Kodachi The Secure OS](https://www.digi77.com/linux-kodachi/)</u>；
 
