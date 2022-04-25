@@ -84,6 +84,10 @@
 
 [Inkscape](https://inkscape.org/) <img width="35" src="https://media.inkscape.org/static/images/inkscape-logo.svg"> Draw Freely  矢量图形软件
 
+[Jami](https://jami.net/) , [Privacy Policy](https://jami.net/privacy-policy/) 
+
+<img width="35" src="https://jitsi.org/wp-content/themes/jitsi/images/logo-web-2020.png"> [Jitsi](https://jitsi.org/) Free Video Conferencing Software for Web & Mobile
+
 [Krita](https://krita.org/)  Digital Painting. 专业绘画软件
 
 [OBS](https://obsproject.com/) <img width="35" src="https://obsproject.com/assets/images/new_icon_small-r.png"> Open Broadcaster Software
@@ -92,9 +96,13 @@
 
 [Ardour](https://ardour.org) <img width="56" src="https://ardour.org/images/ardour_logo_navbar.png"> the digital audio workstation
 
+<img width="35" src="https://assets-global.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg"> [Rocket.Chat](https://rocket.chat/) Communications Platform You Can Fully Trust
+
 [Tangram](https://github.com/sonnyp/tangram) <img width="35" src="https://apps.gnome.org/icons/scalable/re.sonny.Tangram.svg"> Browser for your pinned tabs
 
 [Telegram]( https://telegram.org/) <img width="35" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4"> Fast. Secure. Powerful.
+
+<img width="35" src="https://threema.ch/images/icons/threema-icon.svg"> [Threema](https://threema.ch/en) The secure messenger for individuals and businesses - Overview
 
 Tor
 
@@ -117,6 +125,8 @@ Tor
 [WPD](https://wpd.app) <img src="https://wpd.app/assets/img/wpd-logo.png" width="50"> The real privacy dashboard for Windows 隐私优化
 
 [Malwarebytes Windows Firewall Control](https://www.binisoft.org/wfc) 防火墙管理
+
+[Safing Portmaster](https://safing.io/portmaster/) Take Back Control of Your Computer
 
 ⭐️ Chocolatey Software <img width="50" src="https://chocolatey.org/assets/images/global-shared/logo-square.svg"> [Chocolatey](https://chocolatey.org/) - The package manager for Windows , [Privacy Policy](https://chocolatey.org/privacy).
 
