@@ -233,7 +233,6 @@ VirtualBox 虚拟机安装
   - Privacy Browser <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
   - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
   - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email
-  - [CTemplar](https://ctemplar.com/) <img width="35" src="https://ctemplar.com/wp-content/themes/ctemplar/assets/img/logo-plus-text.svg"> Most Secure Anonymous Encrypted Email
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
   - [News](https://f-droid.org/packages/co.appreactor.news/) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
