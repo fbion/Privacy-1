@@ -30,7 +30,7 @@
 > [数字时代如何管理你的数字隐私](https://blog.besscroft.com/articles/2021/manage-digital-privacy/)：
 
 - 外卖、快递单号。
-- 发布到网上的照片。
+- 发布到网上的[照片](https://sspai.com/post/73193)。
 - 社交媒体关联信息。
 - 你家里的语音助手音箱和其它未经授权的设备。
 - 买卖二手设备时，信息是否删除。
@@ -69,6 +69,8 @@
 [**IPList for China by IPIP.NET**](https://github.com/17mon/china_ip_list) 
 
 [Audacity](https://www.audacityteam.org/) Free, open source, cross-platform audio software for multi-track recording and editing. 跨平台音频编辑软件
+
+[balenaEtcher](https://www.balena.io/etcher) Flash OS images to SD cards & USB drives, safely and easily.
 
 [Blender](https://www.blender.org/) Free and Open 3D Creation Software 3D创建套件
 
@@ -126,7 +128,7 @@ Tor
 
 [Malwarebytes Windows Firewall Control](https://www.binisoft.org/wfc) 防火墙管理
 
-[Safing Portmaster](https://safing.io/portmaster/) Take Back Control of Your Computer
+<img width="35" src="https://avatars.githubusercontent.com/u/20678162"> [Safing Portmaster](https://safing.io/portmaster/) Take Back Control of Your Computer
 
 ⭐️ Chocolatey Software <img width="50" src="https://chocolatey.org/assets/images/global-shared/logo-square.svg"> [Chocolatey](https://chocolatey.org/) - The package manager for Windows , [Privacy Policy](https://chocolatey.org/privacy).
 
@@ -210,18 +212,14 @@ VirtualBox 虚拟机安装
 
 # Android 开源/刷机 
 
-> [GrapheneOS](https://grapheneos.org/): the private and secure mobile OS 适配Google Pixel机型
+> - [GrapheneOS](https://grapheneos.org/): the private and secure mobile OS 适配Google Pixel机型
+>
+> - <img src="https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png" width="30"> [/e/OS](https://e.foundation/e-os/) - deGoogled unGoogled smartphone operating systems and online services - your data is your data👉 [Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
 
-👉 [Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
-
-**推荐升降前摄的全面屏机型** ⭐️ [记 OnePlus 7Pro 刷入 LineageOS 18.1 的奇妙之旅](https://blog.secretbase.cn/p/oneplus7pro-flash-lineageos/)
-
-> <img src="https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png" width="30"> [/e/OS - deGoogled unGoogled smartphone operating systems and online services - your data is your data](https://e.foundation/e-os/) 
+**推荐升降前摄的全面屏机型** ⭐️ [记 OnePlus 7Pro 刷入 LineageOS 18.1 的奇妙之旅](https://blog.secretbase.cn/2022/04/26/oneplus-flash-lineageos/)
 
 <img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/)  The full Android experience without Google Apps.  
 
-- 优势：集成 microG 替代Google服务框架；稳定更新；适配机型众多；
-- 顾虑：[LineageOS **Legal**](https://www.lineageos.org/legal) Unique ID...
 - <img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50">[F-Droid](https://f-droid.org/en/) 专门收录自由软件的安卓应用商店：
   - Aurora Store <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store 
   - AdAway <img width="35" src="https://f-droid.org/repo/org.adaway/en/icon_tKwcVT8aMbx2qao_fv-a4V5Epua_g0FOYWilovP7yjk=.png"> A free and Open Source ad blocker for Android.
@@ -234,6 +232,7 @@ VirtualBox 虚拟机安装
   - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
   - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
+  - [Hail](https://github.com/aistra0528/Hail) 冻结 Android 应用 Freeze Android apps
   - [News](https://f-droid.org/packages/co.appreactor.news/) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
   - Magisk 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
@@ -248,7 +247,7 @@ VirtualBox 虚拟机安装
     
     - Riru - LSPosed 
   - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk)
-  - LSPosed <img width="35" src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4"> Framework
+  - [LSPosed](https://github.com/LSPosed/LSPosed/releases) <img width="35" src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4"> Framework
       - AFWall+
       - Android Faker
       - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk)
@@ -259,11 +258,11 @@ VirtualBox 虚拟机安装
   - LTE Cleaner
   - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps
   - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
-  - [ProtonMail](https://protonmail.com/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email
+  - [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email
   - [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
   - [SagetNet](https://github.com/SagerNet) <img width="35" src="https://avatars.githubusercontent.com/u/83217677?s=200&v=4"> The universal proxy toolchain for Android
   - [Session](https://getsession.org/) Send Messages, Not Metadata
-  - [Shamiko](https://www.daxiaamu.com/6465/) 
+  - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases/)：[基于zygisk的magisk hide](https://www.daxiaamu.com/6465/) 
   - [Shizuku](https://shizuku.rikka.app/zh-hans/) <img width="35" src="https://shizuku.rikka.app/logo.png"> 让你的应用直接使用系统 API
     - App Ops
     - 存储空间
@@ -274,9 +273,9 @@ VirtualBox 虚拟机安装
   - [Trime](https://github.com/osfans/trime) 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
   - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
-  
 
 
+少数派 作者 [pokon548](https://sspai.com/u/pokon548/posts) 写作多篇 Android 隐私文章
 
 [Android FOSS](https://github.com/offa/android-foss)
 
