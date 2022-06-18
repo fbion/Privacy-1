@@ -58,6 +58,8 @@
 
 # Open Source
 
+开源世界旅行手册: https://rack-leen.github.io/world/myworld/os-world-trip/index.html
+
 <img src="https://coreboot.org/assets/images/banner.svg" width="30"> [coreboot - Fast, secure and flexible OpenSource firmware](https://coreboot.org/)
 
 <img src="https://libreboot.org/logo/logo.svg" width="30">[Libreboot](https://libreboot.org/) is freedom-respecting boot firmware, initialising the hardware and booting an operating system
@@ -100,13 +102,15 @@
 
 <img width="35" src="https://assets-global.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg"> [Rocket.Chat](https://rocket.chat/) Communications Platform You Can Fully Trust
 
+[Skiff](https://skiff.com/) end-to-end encrypted email that protects your inbox and gives you the power to communicate freely. 邮箱
+
 [Tangram](https://github.com/sonnyp/tangram) <img width="35" src="https://apps.gnome.org/icons/scalable/re.sonny.Tangram.svg"> Browser for your pinned tabs
 
 [Telegram]( https://telegram.org/) <img width="35" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4"> Fast. Secure. Powerful.
 
-<img width="35" src="https://threema.ch/images/icons/threema-icon.svg"> [Threema](https://threema.ch/en) The secure messenger for individuals and businesses - Overview
+[Telios](https://www.telios.io/) <img width="35" src="https://www.telios.io/static/media/telios_logo.6bf1fcf2.svg"> Decentralized & Encrypted Peer-to-Peer Email Service 邮箱
 
-Tor
+<img width="35" src="https://threema.ch/images/icons/threema-icon.svg"> [Threema](https://threema.ch/en) The secure messenger for individuals and businesses - Overview
 
 [MartText](https://github.com/marktext/marktext) <img width="35" src="https://avatars.githubusercontent.com/u/36623013?s=200&v=4"> A simple and elegant markdown editor.
 
@@ -230,7 +234,7 @@ VirtualBox 虚拟机安装
   - [Aves Gallery](https://github.com/deckerst/aves)
   - Privacy Browser <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
   - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
-  - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email
+  - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email 邮箱
   - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
   - [Hail](https://github.com/aistra0528/Hail) 冻结 Android 应用 Freeze Android apps
   - [News](https://f-droid.org/packages/co.appreactor.news/) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
@@ -256,9 +260,9 @@ VirtualBox 虚拟机安装
       - 应用伪装
   - [Lantern](https://github.com/getlantern) <img width="35" src="https://avatars.githubusercontent.com/u/624178?s=200&v=4">
   - LTE Cleaner
-  - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps
+  - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps 隔离应用
   - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
-  - [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email
+  - [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email 邮箱
   - [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
   - [SagetNet](https://github.com/SagerNet) <img width="35" src="https://avatars.githubusercontent.com/u/83217677?s=200&v=4"> The universal proxy toolchain for Android
   - [Session](https://getsession.org/) Send Messages, Not Metadata
@@ -268,8 +272,7 @@ VirtualBox 虚拟机安装
     - 存储空间
   - [Syncthing](https://syncthing.net/)
   - [Status](https://status.im/) <img width="65" src="https://status.im/img/logo.svg"> Private, Secure Communication
-  - [Telios](https://www.telios.io/) <img width="35" src="https://www.telios.io/static/media/telios_logo.6bf1fcf2.svg"> Decentralized & Encrypted Peer-to-Peer Email Service
-  - Tutanota <img width="35" src="https://f-droid.org/repo/de.tutao.tutanota/en-US/icon_0jwFAtRjMHgbAOWzPFW_-l0fJp0bt9pb6sciyfMB68I=.png"> Encrypted email & calendar service - easy to use, secure by design.
+  - Tutanota <img width="35" src="https://f-droid.org/repo/de.tutao.tutanota/en-US/icon_0jwFAtRjMHgbAOWzPFW_-l0fJp0bt9pb6sciyfMB68I=.png"> Encrypted email & calendar service - easy to use, secure by design. 邮箱
   - [Trime](https://github.com/osfans/trime) 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
   - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
