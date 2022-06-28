@@ -30,7 +30,7 @@
 > [数字时代如何管理你的数字隐私](https://blog.besscroft.com/articles/2021/manage-digital-privacy/)：
 
 - 外卖、快递单号。
-- 发布到网上的[照片](https://sspai.com/post/73193)。
+- 发布到网上的 [照片](https://sspai.com/post/73193)。
 - 社交媒体关联信息。
 - 你家里的语音助手音箱和其它未经授权的设备。
 - 买卖二手设备时，信息是否删除。
@@ -168,11 +168,10 @@
 
 
 
-⭐️ **[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)** 浏览器[下载1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)&[下载2](https://chromium.woolyss.com/) sans integration with Google，<u>[Comparison between web browsers — Spyware Watchdog](https://spyware.neocities.org/articles/index.html)</u> 扩展插件：
+⭐️ **[ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)** 浏览器[下载1](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)&[下载2](https://chromium.woolyss.com/) sans integration with Google，chromium.woolyss.com/ <u>[Comparison between web browsers — Spyware Watchdog](https://spyware.neocities.org/articles/index.html)</u> 扩展插件：
 
   * **[Chromium Web Store](https://github.com/NeverDecaf/chromium-web-store)**
   * [Privacy Badger](https://privacybadger.org/) <img src="https://www.eff.org/files/styles/highlight/public/banner_library/privacy-badger-logo.png" width="50">
-  * [HTTPS Everywhere](https://www.eff.org/https-everywhere) <img src="https://www.eff.org/files/styles/highlight/public/banner_library/https-everywhere-logo.png" width="50">
   * [NoScript](https://noscript.net/)<img width="30" src="https://noscript.net/noscript/logo.png">
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)<img width="30" src="https://addons.cdn.mozilla.net/user-media/addon_icons/784/784287-64.png?modified=mcrushed">
   * Canvas Blocker - Fingerprint Project
@@ -190,7 +189,7 @@
   * WebRTC Leak Prevent
   * WebRTC Network Limiter
 
-[LibreWolf Browser](https://librewolf.net/) <img width="35" src="https://librewolf.net/icon.svg"> A fork of Firefox, focused on privacy, security and freedom. **[配置 FireFox](https://privacytools.twngo.xyz/browsers/)** [顾虑](https://spyware.neocities.org/articles/index.html)
+[LibreWolf Browser](https://librewolf.net/) <img width="35" src="https://librewolf.net/icon.svg"> A fork of Firefox, focused on privacy, security and freedom. **[配置 FireFox](https://privacytools.twngo.xyz/browsers/)**, [顾虑](https://spyware.neocities.org/articles/index.html).
 
 [RIME](https://rime.im/) 开源输入法 
 
@@ -228,33 +227,25 @@ VirtualBox 虚拟机安装
   - Aurora Store <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store 
   - AdAway <img width="35" src="https://f-droid.org/repo/org.adaway/en/icon_tKwcVT8aMbx2qao_fv-a4V5Epua_g0FOYWilovP7yjk=.png"> A free and Open Source ad blocker for Android.
   - Aegis <img width="35" src="https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png"> Free, secure and open source 2FA app to manage tokens for your online services
-  - AFWall+ <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
-  - App Manager <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
-  - AntennaPod <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
-  - [Aves Gallery](https://github.com/deckerst/aves)
-  - Privacy Browser <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
+  - [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/) <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
+  - [App Manager](https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/) <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
+  - [AntennaPod](https://antennapod.org/) <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
+  - [Aves Gallery](https://github.com/deckerst/aves) 图片管理
+  - [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/) <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
   - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
+  - [Graphene Camera](https://github.com/GrapheneOS/Camera/releases) 
   - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email 邮箱
-  - Feeder <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
+  - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
   - [Hail](https://github.com/aistra0528/Hail) 冻结 Android 应用 Freeze Android apps
   - [News](https://f-droid.org/packages/co.appreactor.news/) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
-  - Magisk 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
-  
+  - [Magisk](https://github.com/topjohnwu/Magisk/releases) 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
     - Busybox for Android NDK
-    
-    - MagiskHide Props Config
-    
-    - Riru 
-    
-    - Riru - Enhanced mode for Storage Isolation
-    
-    - Riru - LSPosed 
+    - [MagiskHide Props Config](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)
+    - Zygisk - LSPosed
   - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk)
   - [LSPosed](https://github.com/LSPosed/LSPosed/releases) <img width="35" src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4"> Framework
-      - AFWall+
       - Android Faker
-      - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk)
       - Hide My Applist
       - XPrivacyLua
       - 应用伪装
@@ -272,7 +263,7 @@ VirtualBox 虚拟机安装
     - 存储空间
   - [Syncthing](https://syncthing.net/)
   - [Status](https://status.im/) <img width="65" src="https://status.im/img/logo.svg"> Private, Secure Communication
-  - Tutanota <img width="35" src="https://f-droid.org/repo/de.tutao.tutanota/en-US/icon_0jwFAtRjMHgbAOWzPFW_-l0fJp0bt9pb6sciyfMB68I=.png"> Encrypted email & calendar service - easy to use, secure by design. 邮箱
+  - [Tutanota](https://tutanota.com/) Encrypted email & calendar service - easy to use, secure by design. 邮箱
   - [Trime](https://github.com/osfans/trime) 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
   - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
@@ -297,6 +288,8 @@ VirtualBox 虚拟机安装
    - flatpak install flathub com.github.rafostar.Clapper
    - flatpak install flathub org.blender.Blender
    - flatpak install flathub org.gimp.GIMP
+
+- [Flatpak Is Not the Future](https://ludocode.com/blog/flatpak-is-not-the-future) 
 
 [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher): AppImage helper
 
