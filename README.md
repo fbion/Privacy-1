@@ -252,6 +252,7 @@ VirtualBox 虚拟机安装
       - [Thanox](https://github.com/Tornaco/Thanox)
   - LTE Cleaner
   - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps 隔离应用
+  - Shelter
   - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
   - [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email 邮箱
   - [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
@@ -296,6 +297,8 @@ VirtualBox 虚拟机安装
 Gdebi: simple tool to install deb files
 
 <img width="50" src="https://waydro.id/assets/images/hero/waydroid_white_tb.png"> [Waydroid](https://waydro.id/) A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+
+<img width="55" src="https://www.primeos.in/wp-content/uploads/2021/10/Untitled.png.webp"> [PrimeOS](https://www.primeos.in/)｜Android for PC
 
 <u>[Kodachi The Secure OS](https://www.digi77.com/linux-kodachi/)</u>；
 
