@@ -224,20 +224,23 @@ VirtualBox 虚拟机安装
 <img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/)  The full Android experience without Google Apps.  
 
 - <img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50">[F-Droid](https://f-droid.org/en/) 专门收录自由软件的安卓应用商店：
-  - Aurora Store <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store 
-  - AdAway <img width="35" src="https://f-droid.org/repo/org.adaway/en/icon_tKwcVT8aMbx2qao_fv-a4V5Epua_g0FOYWilovP7yjk=.png"> A free and Open Source ad blocker for Android.
-  - Aegis <img width="35" src="https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png"> Free, secure and open source 2FA app to manage tokens for your online services
-  - [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/) <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
-  - [App Manager](https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/) <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
+  - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store 
+  - [AdAway](https://github.com/AdAway/AdAway) <img width="35" src="https://f-droid.org/repo/org.adaway/en/icon_tKwcVT8aMbx2qao_fv-a4V5Epua_g0FOYWilovP7yjk=.png"> A free and Open Source ad blocker for Android.
+  - [Aegis](https://github.com/beemdevelopment/Aegis) <img width="35" src="https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png"> Free, secure and open source 2FA app to manage tokens for your online services
+  - [AFWall+](https://github.com/ukanth/afwall) <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
+  - [App Manager](https://github.com/MuntashirAkon/AppManager) <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
   - [AntennaPod](https://antennapod.org/) <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
   - [Aves Gallery](https://github.com/deckerst/aves) 图片管理
-  - [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/) <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
+  - [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
   - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
-  - [Graphene Camera](https://github.com/GrapheneOS/Camera/releases) 
+  - [Element](https://github.com/vector-im/element-android) A glossy Matrix collaboration client for Android.
+  - [Graphene Camera](https://github.com/GrapheneOS/Camera/releases)  focused on privacy and security with QR & barcode scanning.
+  - [Jami](https://jami.net/) Secure and distributed communication platform
+  - [Jitsi Meet](https://f-droid.org/en/packages/org.jitsi.meet/) Instant video conferences efficiently adapting to your scale
   - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email 邮箱
-  - [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器
+  - [Feeder](https://gitlab.com/spacecowboy/Feeder) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器 Android RSS reader app
   - [Hail](https://github.com/aistra0528/Hail) 冻结 Android 应用 Freeze Android apps
-  - [News](https://f-droid.org/packages/co.appreactor.news/) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
+  - [News](https://github.com/bubelov/news) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
   - [Magisk](https://github.com/topjohnwu/Magisk/releases) 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
     - Busybox for Android NDK
@@ -250,14 +253,14 @@ VirtualBox 虚拟机安装
       - XPrivacyLua
       - 应用伪装
       - [Thanox](https://github.com/Tornaco/Thanox)
-  - LTE Cleaner
+  - [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS) 
   - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps 隔离应用
-  - Shelter
+  - [Shelter](https://github.com/PeterCxy/Shelter) is a Free and Open-Source (FOSS) app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into.
   - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
   - [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email 邮箱
   - [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
   - [SagetNet](https://github.com/SagerNet) <img width="35" src="https://avatars.githubusercontent.com/u/83217677?s=200&v=4"> The universal proxy toolchain for Android
-  - [Session](https://getsession.org/) Send Messages, Not Metadata
+  - [Session](https://github.com/oxen-io/session-android) A private messenger for Android.
   - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases/)：[基于zygisk的magisk hide](https://www.daxiaamu.com/6465/) 
   - [Shizuku](https://shizuku.rikka.app/zh-hans/) <img width="35" src="https://shizuku.rikka.app/logo.png"> 让你的应用直接使用系统 API
     - App Ops
@@ -267,7 +270,7 @@ VirtualBox 虚拟机安装
   - [Tutanota](https://tutanota.com/) Encrypted email & calendar service - easy to use, secure by design. 邮箱
   - [Trime](https://github.com/osfans/trime) 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
-  - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
+  - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) Fight IMSI-Catcher, StingRay and silent SMS!
 
 
 少数派 作者 [pokon548](https://sspai.com/u/pokon548/posts) 写作多篇 Android 隐私文章
