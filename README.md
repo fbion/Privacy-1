@@ -18,14 +18,13 @@
 搜索引擎：👁‍🗨
 
 * Startpage https://www.startpage.com
-
 * Searx https://searx.space/
-
+* Spot https://spot.ecloud.global/
 * Swisscows https://swisscows.com
-
 * Mojeek https://www.mojeek.com
-
-  
+* Gibiru https://gibiru.com/
+* Neeva https://neeva.com/
+* Yep https://yep.com/
 
 > [数字时代如何管理你的数字隐私](https://blog.besscroft.com/articles/2021/manage-digital-privacy/)：
 
@@ -120,7 +119,7 @@
 
 系统版本 [Windows 10 Enterprise LTSC (Long Time Service Channel)](https://msdn.itellyou.cn/)
 
-系统版本 [Windows 10 Ameliorated](https://ameliorated.info/) <img src="https://ameliorated.info/img/logo_ame_small.png" width="35" >
+系统版本  [Windows 10 Ameliorated](https://ameliorated.info/) ⭐️
 
 系统设置：🔒 [可选项一律 off 关闭](https://fix10.isleaked.com)
 
@@ -130,7 +129,7 @@
 
 [WPD](https://wpd.app) <img src="https://wpd.app/assets/img/wpd-logo.png" width="50"> The real privacy dashboard for Windows 隐私优化
 
-[Malwarebytes Windows Firewall Control](https://www.binisoft.org/wfc) 防火墙管理
+[Malwarebytes Windows Firewall Control](https://www.binisoft.org/wfc) ⭐️ 防火墙管理
 
 <img width="35" src="https://avatars.githubusercontent.com/u/20678162"> [Safing Portmaster](https://safing.io/portmaster/) Take Back Control of Your Computer
 
@@ -140,14 +139,11 @@
 
 * [7zip](https://www.7-zip.org/) 解压软件 <img src="https://www.7-zip.org/7ziplogo.png" width="35">
 * [BleachBit](https://www.bleachbit.org/) 清除缓存 <img src="https://www.bleachbit.org/sites/default/files/zen_classic_logo_0.png" width="35">
-* curl
 * [dnscrypt-proxy](https://github.com/DNSCrypt)
 * [Dism++](https://www.chuyu.me/en/index.html)  ：Windows10 系统优化
 * [Emacs](https://www.gnu.org/software/emacs/)  编辑器 <img src="https://www.gnu.org/software/emacs/images/emacs.png" width="35">
 * [Everything](https://www.voidtools.com) 文件搜索
 * [ffmpeg](https://ffmpeg.org) 音/视频编解码
-* [git](https://git-scm.com/)
-* github
 * [GoldenDict](http://www.goldendict.org/) 词典
 * [MusicBee](https://getmusicbee.com) 播放器：电台、播客、音乐 
 * [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) ：Windows10 隐私优化
@@ -157,13 +153,10 @@
 * [shutup10](https://www.oo-software.com/en/shutup10) ：Windows10系统权限控制与优化
 * [SimpleWall](https://www.henrypp.org/product/simplewall) 简易防火墙
 * [SumatraPDF](http://www.sumatrapdfreader.org/) 阅读器
-* v2ray
-* v2rayn
 * [Typora](https://typora.io/) ： Markdown 编辑器
 * [O&O ShutUp10](https://www.oo-software.com/en/shutup10) 隐私保护和设置优化工具
 * vscode 编辑器
 * [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/) 阻止windows间谍/遥测，捕获流量
-* xray
 * youtube-dl 命令行下载音/视频
 
 
@@ -193,6 +186,8 @@
 
 [RIME](https://rime.im/) 开源输入法 
 
+[SmartDNS](https://pymumu.github.io/smartdns/) 
+
 [VLC](https://www.videolan.org/vlc/) 视频播放器 <img src="https://images.videolan.org/images/logoOrange.png" width="40">
 
 [GlassWire](https://www.glasswire.com) 商业软件，隐私条款简明友好，可用于监控应用流量。<img width="50" src="https://www.glasswire.com/img/GlassWire_Firewall_Logo.svg">
@@ -215,9 +210,10 @@ VirtualBox 虚拟机安装
 
 # Android 开源/刷机 
 
+> - 👉 [Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
 > - [GrapheneOS](https://grapheneos.org/): the private and secure mobile OS 适配Google Pixel机型
->
-> - <img src="https://e.foundation/wp-content/uploads/2019/11/e-logo-noir-01.png" width="30"> [/e/OS](https://e.foundation/e-os/) - deGoogled unGoogled smartphone operating systems and online services - your data is your data👉 [Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
+> - [CalyxOS](https://calyxos.org/) 适配Google Pixel机型
+> - [/e/OS](https://e.foundation/e-os/) - deGoogled unGoogled smartphone operating systems and online services
 
 **推荐升降前摄的全面屏机型** »»» [记 OnePlus 7Pro 刷入 LineageOS 18.1 的奇妙之旅](https://blog.secretbase.cn/2022/04/26/oneplus-flash-lineageos/)
 
@@ -229,36 +225,38 @@ VirtualBox 虚拟机安装
   - [Aegis](https://github.com/beemdevelopment/Aegis) <img width="35" src="https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png"> Free, secure and open source 2FA app to manage tokens for your online services
   - [AFWall+](https://github.com/ukanth/afwall) <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
   - [App Manager](https://github.com/MuntashirAkon/AppManager) <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
-  - [AntennaPod](https://antennapod.org/) <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器
+  - [AntennaPod](https://antennapod.org/) <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器 ⭐️
   - [Aves Gallery](https://github.com/deckerst/aves) 图片管理
-  - [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) <img width="35" src="https://f-droid.org/repo/com.stoutner.privacybrowser.standard/en/icon_TcuCM76vKQN0yOL--Q5nb5tVhvCxqsomSWiIn8jfgm0=.png"> A web browser that respects your privacy.
-  - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器
+  - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器 ⭐️
   - [Element](https://github.com/vector-im/element-android) A glossy Matrix collaboration client for Android.
   - [Graphene Camera](https://github.com/GrapheneOS/Camera/releases)  focused on privacy and security with QR & barcode scanning.
   - [Jami](https://jami.net/) Secure and distributed communication platform
   - [Jitsi Meet](https://f-droid.org/en/packages/org.jitsi.meet/) Instant video conferences efficiently adapting to your scale
-  - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4"> Encrypted email 邮箱
-  - [Feeder](https://gitlab.com/spacecowboy/Feeder) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器 Android RSS reader app
+  - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4">邮箱 Encrypted email   
+  - [Feeder](https://gitlab.com/spacecowboy/Feeder) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器 Android RSS reader app ⭐️
+  - [Fedilab](https://fedilab.app/) is a multifunctional Android client to access the distributed Fediverse, consisting of microblogging, photo sharing and video hosting
   - [Hail](https://github.com/aistra0528/Hail) 冻结 Android 应用 Freeze Android apps
   - [News](https://github.com/bubelov/news) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
   - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
   - [Magisk](https://github.com/topjohnwu/Magisk/releases) 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
+    - [dnscrypt-proxy-android](https://github.com/quindecim/dnscrypt-proxy-android) ⭐️ 可自行设置DNS
     - Busybox for Android NDK
     - [MagiskHide Props Config](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)
     - Zygisk - LSPosed
-  - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk)
+  - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) 压制酷安
   - [LSPosed](https://github.com/LSPosed/LSPosed/releases) <img width="35" src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4"> Framework
       - Android Faker
       - Hide My Applist
       - XPrivacyLua
       - 应用伪装
-      - [Thanox](https://github.com/Tornaco/Thanox)
+      - [Thanox](https://github.com/Tornaco/Thanox) ⭐️ 
   - [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS) 
-  - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps 隔离应用
+  - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps 隔离应用 ⭐️
   - [Shelter](https://github.com/PeterCxy/Shelter) is a Free and Open-Source (FOSS) app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into.
   - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
-  - [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4"> Secure email 邮箱
+  - [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4">邮箱 Secure email   ⭐️
   - [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
+  - [SchildiChat](https://schildi.chat/) Secure messenger for Matrix with a traditional instant messaging experience
   - [SagetNet](https://github.com/SagerNet) <img width="35" src="https://avatars.githubusercontent.com/u/83217677?s=200&v=4"> The universal proxy toolchain for Android
   - [Session](https://github.com/oxen-io/session-android) A private messenger for Android.
   - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases/)：[基于zygisk的magisk hide](https://www.daxiaamu.com/6465/) 
@@ -267,8 +265,10 @@ VirtualBox 虚拟机安装
     - 存储空间
   - [Syncthing](https://syncthing.net/)
   - [Status](https://status.im/) <img width="65" src="https://status.im/img/logo.svg"> Private, Secure Communication
-  - [Tutanota](https://tutanota.com/) Encrypted email & calendar service - easy to use, secure by design. 邮箱
-  - [Trime](https://github.com/osfans/trime) 输入法
+  - [Signal](https://github.com/signalapp/Signal-Android) Private Messenger
+  - [Tusky](https://tusky.app/) Mastodon client for Android
+  - [Tutanota](https://tutanota.com/) 邮箱 ⭐️ Encrypted email & calendar service - easy to use, secure by design. 
+  - [Trime](https://github.com/osfans/trime) ⭐️ 输入法
   - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
   - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) Fight IMSI-Catcher, StingRay and silent SMS!
 
