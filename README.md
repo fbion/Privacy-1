@@ -6,9 +6,17 @@
 
 ******
 
+[极简计算机结构介绍](https://s2.shizhz.me/) 
+
+[HTTP/2 explained 讲解文档](https://http2-explained.haxx.se/zh) 
+
+[HTTP/3 explained 详解文档](https://http3-explained.haxx.se/zh) 
+
 [暗网取证研究](https://mp.weixin.qq.com/s/_kObp0peUyajqnDACJDlqg) 《信息安全与通信保密》2021年第3期.
 
 [SIM卡安全问题](https://zhuanlan.zhihu.com/p/231106722)
+
+[Online_Tools](https://github.com/r0eXpeR/Online_Tools): 一些在线的工具,情报资源
 
 浏览器缓存数据：
 
@@ -58,6 +66,14 @@
 # Open Source
 
 开源世界旅行手册: https://rack-leen.github.io/world/myworld/os-world-trip/index.html
+
+[HowToStartOpenSource](https://eryajf.github.io/HowToStartOpenSource/): GitHub开源项目维护协作指南
+
+[Privacy Tools - Privacy Guides](https://www.privacyguides.org/tools/) 
+
+[degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle)
+
+[Open Source Libs - Best Open Source Software Projects](https://opensourcelibs.com/)
 
 <img src="https://coreboot.org/assets/images/banner.svg" width="30"> [coreboot - Fast, secure and flexible OpenSource firmware](https://coreboot.org/)
 
@@ -117,7 +133,7 @@
 
 # Windows
 
-系统版本 [Windows 10 Enterprise LTSC (Long Time Service Channel)](https://msdn.itellyou.cn/)
+系统版本 [Windows 10 Enterprise LTSC (Long Time Service Channel)](https://msdn.itellyou.cn/) MSDN
 
 系统版本  [Windows 10 Ameliorated](https://ameliorated.info/) ⭐️
 
@@ -213,64 +229,68 @@ VirtualBox 虚拟机安装
 > - 👉 [Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
 > - [GrapheneOS](https://grapheneos.org/): the private and secure mobile OS 适配Google Pixel机型
 > - [CalyxOS](https://calyxos.org/) 适配Google Pixel机型
-> - [/e/OS](https://e.foundation/e-os/) - deGoogled unGoogled smartphone operating systems and online services
+> - [Custom ROM List](https://gearjail.neocities.org/pda-os.html) 
+> - [如何更好地使用 Android 手機（2022）](https://misaka-mc.tokyo/2022/07/20/a-better-way-to-use-an-android-phone-2022/)
 
-**推荐升降前摄的全面屏机型** »»» [记 OnePlus 7Pro 刷入 LineageOS 18.1 的奇妙之旅](https://blog.secretbase.cn/2022/04/26/oneplus-flash-lineageos/)
+**推荐升降前摄的全面屏机型** »»» [记 OnePlus 7Pro 刷入 LineageOS 18.1](https://blog.secretbase.cn/2022/04/26/oneplus-flash-lineageos/)；[一加 7 刷入氧 OS、TWRP、Magisk](https://blog.skk.moe/post/op7-oos-twrp-magisk/) 
 
-<img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> [LineageOS for microG](https://lineage.microg.org/)  The full Android experience without Google Apps.  
+- 推荐ROM [LineageOS for microG](https://lineage.microg.org/)<img src="https://lineage.microg.org/images/screen_logo.jpg" width="25">The full Android experience without Google Apps.  
+- 推荐ROM [DivestOS Mobile](https://divestos.org/) A mobile operating system divested from the norm.*"take back (some) control of your device"*
 
-- <img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50">[F-Droid](https://f-droid.org/en/) 专门收录自由软件的安卓应用商店：
-  - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store 
-  - [AdAway](https://github.com/AdAway/AdAway) <img width="35" src="https://f-droid.org/repo/org.adaway/en/icon_tKwcVT8aMbx2qao_fv-a4V5Epua_g0FOYWilovP7yjk=.png"> A free and Open Source ad blocker for Android.
-  - [Aegis](https://github.com/beemdevelopment/Aegis) <img width="35" src="https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png"> Free, secure and open source 2FA app to manage tokens for your online services
-  - [AFWall+](https://github.com/ukanth/afwall) <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
-  - [App Manager](https://github.com/MuntashirAkon/AppManager) <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
-  - [AntennaPod](https://antennapod.org/) <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器 ⭐️
-  - [Aves Gallery](https://github.com/deckerst/aves) 图片管理
-  - [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器 ⭐️
-  - [Element](https://github.com/vector-im/element-android) A glossy Matrix collaboration client for Android.
-  - [Graphene Camera](https://github.com/GrapheneOS/Camera/releases)  focused on privacy and security with QR & barcode scanning.
-  - [Jami](https://jami.net/) Secure and distributed communication platform
-  - [Jitsi Meet](https://f-droid.org/en/packages/org.jitsi.meet/) Instant video conferences efficiently adapting to your scale
-  - [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4">邮箱 Encrypted email   
-  - [Feeder](https://gitlab.com/spacecowboy/Feeder) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器 Android RSS reader app ⭐️
-  - [Fedilab](https://fedilab.app/) is a multifunctional Android client to access the distributed Fediverse, consisting of microblogging, photo sharing and video hosting
-  - [Hail](https://github.com/aistra0528/Hail) 冻结 Android 应用 Freeze Android apps
-  - [News](https://github.com/bubelov/news) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
-  - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
-  - [Magisk](https://github.com/topjohnwu/Magisk/releases) 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
-    - [dnscrypt-proxy-android](https://github.com/quindecim/dnscrypt-proxy-android) ⭐️ 可自行设置DNS
-    - Busybox for Android NDK
-    - [MagiskHide Props Config](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)
-    - Zygisk - LSPosed
-  - [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) 压制酷安
-  - [LSPosed](https://github.com/LSPosed/LSPosed/releases) <img width="35" src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4"> Framework
-      - Android Faker
-      - Hide My Applist
-      - XPrivacyLua
-      - 应用伪装
-      - [Thanox](https://github.com/Tornaco/Thanox) ⭐️ 
-  - [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS) 
-  - [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps 隔离应用 ⭐️
-  - [Shelter](https://github.com/PeterCxy/Shelter) is a Free and Open-Source (FOSS) app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into.
-  - InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
-  - [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4">邮箱 Secure email   ⭐️
-  - [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
-  - [SchildiChat](https://schildi.chat/) Secure messenger for Matrix with a traditional instant messaging experience
-  - [SagetNet](https://github.com/SagerNet) <img width="35" src="https://avatars.githubusercontent.com/u/83217677?s=200&v=4"> The universal proxy toolchain for Android
-  - [Session](https://github.com/oxen-io/session-android) A private messenger for Android.
-  - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases/)：[基于zygisk的magisk hide](https://www.daxiaamu.com/6465/) 
-  - [Shizuku](https://shizuku.rikka.app/zh-hans/) <img width="35" src="https://shizuku.rikka.app/logo.png"> 让你的应用直接使用系统 API
-    - App Ops
-    - 存储空间
-  - [Syncthing](https://syncthing.net/)
-  - [Status](https://status.im/) <img width="65" src="https://status.im/img/logo.svg"> Private, Secure Communication
-  - [Signal](https://github.com/signalapp/Signal-Android) Private Messenger
-  - [Tusky](https://tusky.app/) Mastodon client for Android
-  - [Tutanota](https://tutanota.com/) 邮箱 ⭐️ Encrypted email & calendar service - easy to use, secure by design. 
-  - [Trime](https://github.com/osfans/trime) ⭐️ 输入法
-  - [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
-  - [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) Fight IMSI-Catcher, StingRay and silent SMS!
+<img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50">[F-Droid](https://f-droid.org/en/) 专门收录自由软件的安卓应用商店：
+
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <img src="https://f-droid.org/repo/icons-640/com.aurora.store.38.png" width="30"> 无需登录 Google 帐号和服务的 Play Store. 
+- [AdAway](https://github.com/AdAway/AdAway) <img width="35" src="https://f-droid.org/repo/org.adaway/en/icon_tKwcVT8aMbx2qao_fv-a4V5Epua_g0FOYWilovP7yjk=.png"> A free and Open Source ad blocker for Android.
+- [Aegis](https://github.com/beemdevelopment/Aegis) <img width="35" src="https://f-droid.org/repo/com.beemdevelopment.aegis/en-US/icon_C951ZFTL5UuK5VK6KaIOnVy5NNb0Wqe8asl4v1fSXLI=.png"> Free, secure and open source 2FA app to manage tokens for your online services.
+- [AFWall+](https://github.com/ukanth/afwall) <img src="https://f-droid.org/repo/icons-640/dev.ukanth.ufirewall.20210517.png" width="30"> 联网控制
+- [App Manager](https://github.com/MuntashirAkon/AppManager) <img src="https://f-droid.org/repo/io.github.muntashirakon.AppManager/en-US/icon_Jc_KAiIUxfeHFgZFDxqLREjmodCzjXpuT8I-W_wGTew=.png" width="30"> Android package manager
+- [AntennaPod](https://antennapod.org/) <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="30"> 播客管理器 ⭐️
+- [Aves Gallery](https://github.com/deckerst/aves) 图片管理
+- [Bromite](https://www.bromite.org/) <img width="35" src="https://www.bromite.org/bromite.png"> 浏览器 ⭐️
+- [Element](https://github.com/vector-im/element-android) A glossy Matrix collaboration client for Android.
+- [Graphene Camera](https://github.com/GrapheneOS/Camera/releases)  focused on privacy and security with QR & barcode scanning.
+- [Jami](https://jami.net/) Secure and distributed communication platform
+- [Jitsi Meet](https://f-droid.org/en/packages/org.jitsi.meet/) Instant video conferences efficiently adapting to your scale
+- [Criptext](https://criptext.com/) <img width="35" src="https://avatars.githubusercontent.com/u/13144821?s=200&v=4">邮箱 Encrypted email   
+- [Feeder](https://gitlab.com/spacecowboy/Feeder) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> RSS阅读器 Android RSS reader app ⭐️
+- [Fedilab](https://fedilab.app/) is a multifunctional Android client to access the distributed Fediverse, consisting of microblogging, photo sharing and video hosting
+- [Hail](https://github.com/aistra0528/Hail) 冻结 Android 应用 Freeze Android apps
+- [News](https://github.com/bubelov/news) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
+- [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
+- [Magisk](https://github.com/topjohnwu/Magisk/releases) 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
+  - [dnscrypt-proxy-android](https://github.com/quindecim/dnscrypt-proxy-android) ⭐️ 可自行设置DNS [China forwarding list for dnscrypt-proxy](https://github.com/Tynox/dnscrypt-proxy-china-forwarding-list) 
+  - [microg_installer ](https://github.com/nift4/microg_installer_revived) , [配置](https://jasper1024.com/jasper/8e68e7d/). 
+  - Busybox for Android NDK
+  - [MagiskHide Props Config](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases)
+  - Zygisk - LSPosed
+- [FuckCoolapk R](https://github.com/Xposed-Modules-Repo/org.hello.coolapk) 压制酷安
+- [LSPosed](https://github.com/LSPosed/LSPosed/releases) <img width="35" src="https://avatars.githubusercontent.com/u/75879071?s=200&v=4"> Framework
+    - Android Faker
+    - Hide My Applist
+    - XPrivacyLua
+    - 应用伪装
+    - [Thanox](https://github.com/Tornaco/Thanox) ⭐️ [使用教程](https://blog.ichr.me/post/first-to-thanox/) 
+- [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS) 
+- [Insular](https://secure-system.gitlab.io/Insular/) <img width="35" src="https://f-droid.org/repo/com.oasisfeng.island.fdroid/en-US/icon_dWnfrbfcoJ93KTKAr3z4G8b6wHHEeJOad7LS6EVTEHY=.png"> Isolate your Big Brother apps 隔离应用 ⭐️
+- [Shelter](https://github.com/PeterCxy/Shelter) is a Free and Open-Source (FOSS) app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into.
+- InviZible Pro <img width="35" src="https://f-droid.org/repo/pan.alexander.tordnscrypt.stable/en-US/icon_de8pORbxQtizOAeyqadO017HBVe3r3LnAYr7XlT5D-s=.png"> Comprehensive application for on-line privacy and security
+- [ProtonMail](https://proton.me/) <img width="35" src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4">邮箱 Secure email   ⭐️
+- [RethinkDNS](https://rethinkdns.com/)  Firewall apps, monitor network activity, block malware, change DNS.
+- [SchildiChat](https://schildi.chat/) Secure messenger for Matrix with a traditional instant messaging experience
+- [SagetNet](https://github.com/SagerNet) <img width="35" src="https://avatars.githubusercontent.com/u/83217677?s=200&v=4"> The universal proxy toolchain for Android
+- [Session](https://github.com/oxen-io/session-android) A private messenger for Android.
+- [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases/)：[基于zygisk的magisk hide](https://www.daxiaamu.com/6465/) 
+- [Shizuku](https://shizuku.rikka.app/zh-hans/) <img width="35" src="https://shizuku.rikka.app/logo.png"> 让你的应用直接使用系统 API
+  - App Ops
+  - 存储空间
+- [Syncthing](https://syncthing.net/)
+- [Status](https://status.im/) <img width="65" src="https://status.im/img/logo.svg"> Private, Secure Communication
+- [Signal](https://github.com/signalapp/Signal-Android) Private Messenger
+- [Tusky](https://tusky.app/) Mastodon client for Android
+- [Tutanota](https://tutanota.com/) 邮箱 ⭐️ Encrypted email & calendar service - easy to use, secure by design. 
+- [Trime](https://github.com/osfans/trime) ⭐️ 输入法, [配置](https://github.com/ssnhd/rime). 
+- [SnoopSnitch](https://opensource.srlabs.de/projects/snoopsnitch)
+- [AIMSICD](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) Fight IMSI-Catcher, StingRay and silent SMS!
 
 
 少数派 作者 [pokon548](https://sspai.com/u/pokon548/posts) 写作多篇 Android 隐私文章
@@ -279,12 +299,26 @@ VirtualBox 虚拟机安装
 
 [北理·金旭亮 Android 开发](https://space.bilibili.com/612518983/video)
 
+[Android 工程师进阶手册](https://github.com/Skykai521/AndroidDeveloperAdvancedManual) 
+
+[Flutter完整开发实战详解系列](https://guoshuyu.cn/home/wx/) 
+
 # Linux
+[Linux核心概念详解](https://s3.shizhz.me/) 
+
+[穷佐罗的Linux书](https://zorrozou.github.io/) 
+
+[The Linux Perf Master](https://riboseyim.gitbook.io/perf/) 以应用性能诊断入手，试从多维度介绍以 Linux 操作系统为核心的开源架构技术体系。
+
 [Debian](https://www.debian.org/) <img width="35" src="https://www.debian.org/Pics/openlogo-50.png"> The Universal Operating System
+
+[安装 ubuntu 20.04 之后需要做的几件事](https://www.wenjinyu.me/something-to-do-after-installing-ubuntu-20-04/) 
 
 > [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)  ;  [Linux/BSD Compatible Hardware](https://distrowatch.com/dwres.php?resource=hardware) ；联想[Lenovo: Linux for Personal Systems](https://support.lenovo.com/us/en/solutions/pd031426)；
 
 > [Fwupd](https://fwupd.org/lvfs/devices/) - The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates
+
+[KDE 应用程序](https://apps.kde.org/zh-cn/) 
 
 - [Packages for Linux and Unix](https://pkgs.org/)
 - [Flatpak Setup](https://flatpak.org/setup) <img width="50" src="https://flatpak.org/img/logo-5bc540c2.svgz"> [顾虑](https://ludocode.com/blog/flatpak-is-not-the-future)
