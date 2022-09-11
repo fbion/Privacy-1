@@ -228,7 +228,6 @@ VirtualBox 虚拟机安装
 
 > - 👉 [Android phones are sending significant amount of user data with no opt-out](https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf) & [Hacker News comments](https://news.ycombinator.com/item?id=28830328)
 > - [GrapheneOS](https://grapheneos.org/): the private and secure mobile OS 适配Google Pixel机型
-> - [CalyxOS](https://calyxos.org/) 适配Google Pixel机型
 > - [Custom ROM List](https://gearjail.neocities.org/pda-os.html) 
 > - [如何更好地使用 Android 手機（2022）](https://misaka-mc.tokyo/2022/07/20/a-better-way-to-use-an-android-phone-2022/)
 
@@ -257,7 +256,7 @@ VirtualBox 虚拟机安装
 - [Hail](https://github.com/aistra0528/Hail) 冻结 Android 应用 Freeze Android apps
 - [News](https://github.com/bubelov/news) <img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png"> Feed reader and podcast player for Android
 - [NewPipe SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) <img width="35" src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png"> A fork of NewPipe with SponsorBlock functionality.
-- [Magisk](https://github.com/topjohnwu/Magisk/releases) 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20">
+- [Magisk](https://github.com/topjohnwu/Magisk/releases) 面具 <img src="https://github.com/topjohnwu/Magisk/blob/master/docs/images/logo.png" width="20"> 例: [小米手机从刷机包提取boot.img](https://miuiver.com/extracting-boot-img/) 
   - [dnscrypt-proxy-android](https://github.com/quindecim/dnscrypt-proxy-android) ⭐️ 可自行设置DNS [China forwarding list for dnscrypt-proxy](https://github.com/Tynox/dnscrypt-proxy-china-forwarding-list) 
   - [microg_installer ](https://github.com/nift4/microg_installer_revived) , [配置](https://jasper1024.com/jasper/8e68e7d/). 
   - Busybox for Android NDK
